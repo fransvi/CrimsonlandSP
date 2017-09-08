@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 8a959527d5374fb418bdfa34897223be
+timeCreated: 1478042331
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TopDownShooterPublish_0
+    21300002: TopDownShooterPublish_1
+    21300004: TopDownShooterPublish_2
+    21300006: TopDownShooterPublish_3
+    21300008: TopDownShooterPublish_4
+    21300010: TopDownShooterPublish_5
+    21300012: TopDownShooterPublish_6
+    21300014: TopDownShooterPublish_7
+    21300016: TopDownShooterPublish_8
+    21300018: TopDownShooterPublish_9
+    21300020: TopDownShooterPublish_10
+    21300022: TopDownShooterPublish_11
+    21300024: TopDownShooterPublish_12
+    21300026: TopDownShooterPublish_13
+    21300028: TopDownShooterPublish_14
+    21300030: TopDownShooterPublish_15
+    21300032: TopDownShooterPublish_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TopDownShooterPublish_0
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 2714
+        width: 136
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_1
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 2699
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_2
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2642
+        width: 178
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_3
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2622
+        width: 182
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_4
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2609
+        width: 154
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_5
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 2603
+        width: 139
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_6
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 2618
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_7
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 2457
+        width: 176
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_8
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 2496
+        width: 171
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_9
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2459
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_10
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1840
+        width: 443
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1242
+        width: 1442
+        height: 1120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_12
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1563
+        width: 127
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 1}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_13
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1298
+        width: 574
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_14
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 374
+        width: 842
+        height: 842
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_15
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 374
+        width: 841
+        height: 842
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopDownShooterPublish_16
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 378
+        width: 834
+        height: 835
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

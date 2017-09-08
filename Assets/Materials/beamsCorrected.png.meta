@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: c23f14b0e5144c8408f680b8f8eb693a
+timeCreated: 1477758241
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: beamsCorrected_0
+    21300002: beamsCorrected_1
+    21300004: beamsCorrected_2
+    21300006: beamsCorrected_3
+    21300008: beamsCorrected_4
+    21300010: beamsCorrected_5
+    21300012: beamsCorrected_6
+    21300014: beamsCorrected_7
+    21300016: beamsCorrected_8
+    21300018: beamsCorrected_9
+    21300020: beamsCorrected_10
+    21300022: beamsCorrected_11
+    21300024: beamsCorrected_12
+    21300026: beamsCorrected_13
+    21300028: beamsCorrected_14
+    21300030: beamsCorrected_15
+    21300032: beamsCorrected_16
+    21300034: beamsCorrected_17
+    21300036: beamsCorrected_18
+    21300038: beamsCorrected_19
+    21300040: beamsCorrected_20
+    21300042: beamsCorrected_21
+    21300044: beamsCorrected_22
+    21300046: beamsCorrected_23
+    21300048: beamsCorrected_24
+    21300050: beamsCorrected_25
+    21300052: beamsCorrected_26
+    21300054: beamsCorrected_27
+    21300056: beamsCorrected_28
+    21300058: beamsCorrected_29
+    21300060: beamsCorrected_30
+    21300062: beamsCorrected_31
+    21300064: beamsCorrected_32
+    21300066: beamsCorrected_33
+    21300068: beamsCorrected_34
+    21300070: beamsCorrected_35
+    21300072: beamsCorrected_36
+    21300074: beamsCorrected_37
+    21300076: beamsCorrected_38
+    21300078: beamsCorrected_39
+    21300080: beamsCorrected_40
+    21300082: beamsCorrected_41
+    21300084: beamsCorrected_42
+    21300086: beamsCorrected_43
+    21300088: beamsCorrected_44
+    21300090: beamsCorrected_45
+    21300092: beamsCorrected_46
+    21300094: beamsCorrected_47
+    21300096: beamsCorrected_48
+    21300098: beamsCorrected_49
+    21300100: beamsCorrected_50
+    21300102: beamsCorrected_51
+    21300104: beamsCorrected_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beamsCorrected_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 167
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 457
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 466
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 468
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 467
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 465
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 467
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 466
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 435
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 435
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 434
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 434
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 434
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 433
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 374
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 385
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 387
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 386
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 386
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 388
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 387
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 332
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 269
+        width: 9
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 354
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 354
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 353
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 355
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 355
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 354
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 301
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 281
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 299
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 301
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 300
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 301
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 303
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 302
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 225
+        width: 111
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 268
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 268
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 267
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_42
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 270
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 269
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 261
+        width: 89
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 202
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 205
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 232
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 125
+        width: 120
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beamsCorrected_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 87
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
